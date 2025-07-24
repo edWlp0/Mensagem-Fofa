@@ -45,5 +45,5 @@ for frase in mensagem:
     print("💌", frase)
     time.sleep(2)
 
-print("\n✨ Fim da mensagem. Mas quem sabe... seja só o começo :) ✨")
+print("\n✨ Fim da mesagem. Mas quem sabe... seja só o começo :) ✨")
 print("🚀 Feito com carinho por alguém que tá curtindo te conhecer 💚")
